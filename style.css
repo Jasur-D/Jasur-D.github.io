@@ -1,0 +1,50 @@
+body {
+    background-image: url("background.jpg");
+}
+
+h1 {
+    font-family: charlemagne std;
+    font-size: 22pt;
+    text-align: left;
+    color: cyan;
+}
+
+h2 {
+    font-family: charlemagne std;
+    font-size: 14pt;
+    text-align: left;
+    color: cyan;
+}
+
+b {
+    font-family: century gothic;
+    font-size: 12pt;
+    text-align: left;
+    color: #98DDDE;
+}
+
+li {
+    font-family: century gothic;
+    font-size: 12pt;
+    text-align: left;
+    color: yellow;
+}
+
+a {
+    font-family: century gothic;
+    font-size: 12pt;
+    text-align: left;
+    color: lime;
+}
+
+img {
+    border-style: solid;
+    height: 25em;
+}
+
+p {
+    font-family: century gothic;
+    font-size: 12pt;
+    text-align: left;
+    color: yellow;
+}

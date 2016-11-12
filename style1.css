@@ -1,0 +1,29 @@
+body {
+    background-image: url("background2.jpg");
+}
+
+b {
+    font-family: century gothic;
+    font-size: 11pt;
+    text-align: left;
+    color: #98DDDE;
+}
+
+p {
+    font-family: century gothic;
+    font-size: 11pt;
+    text-align: left;
+    color: yellow;
+}
+
+a {
+    font-family: courier;
+    color: white;
+}
+
+name {
+    font-family: charlemagne std;
+    font-size: 18pt;
+    text-align: center;
+    color: #FFFFFF;
+}
